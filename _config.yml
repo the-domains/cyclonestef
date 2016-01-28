@@ -1,0 +1,28 @@
+name: cyclonestef
+favicon: null
+layout_spectrum: 0.2611171875614673
+typography_spectrum: 0.4910220585297793
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.345554860541597
+  lightness: 0.38186895614489913
+  saturation: 0.9420890102628618
+  rhythmicContrast: 0.6911303633823991
+purpose: []
